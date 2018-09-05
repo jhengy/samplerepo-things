@@ -2,3 +2,4 @@ apples
 berries
 cherries
 banana
+added another line at the feature1 branch
